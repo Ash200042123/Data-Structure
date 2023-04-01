@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ASUS\Desktop\DS lab\Lab10\200042123_L05_T04_1A\ConsoleApplication1.cpp(23,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\DS lab\Lab10\200042123_L05_T04_1A\ConsoleApplication1.cpp(24,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  200042123_L05_T04_1A.vcxproj -> C:\Users\ASUS\Desktop\DS lab\Lab10\200042123_L05_T04_1A\x64\Debug\200042123_L05_T04_1A.exe

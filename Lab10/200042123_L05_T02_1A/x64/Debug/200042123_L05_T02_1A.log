@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ASUS\Desktop\DS lab\Lab10\200042123_L05_T02_1A\ConsoleApplication1.cpp(10,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\DS lab\Lab10\200042123_L05_T02_1A\ConsoleApplication1.cpp(10,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\DS lab\Lab10\200042123_L05_T02_1A\ConsoleApplication1.cpp(30,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  200042123_L05_T02_1A.vcxproj -> C:\Users\ASUS\Desktop\DS lab\Lab10\200042123_L05_T02_1A\x64\Debug\200042123_L05_T02_1A.exe

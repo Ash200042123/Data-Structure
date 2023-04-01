@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ASUS\Desktop\DS lab\Lab6\TableGenerator\ConsoleApplication1.cpp(23,9): warning C4101: 'a_id': unreferenced local variable
+  TableGenerator.vcxproj -> C:\Users\ASUS\Desktop\DS lab\Lab6\TableGenerator\x64\Debug\TableGenerator.exe

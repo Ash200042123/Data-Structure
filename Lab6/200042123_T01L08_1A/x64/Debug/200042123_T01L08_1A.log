@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\ASUS\Desktop\DS lab\Lab6\200042123_T01L08_1A\ConsoleApplication1.cpp(83,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  200042123_T01L08_1A.vcxproj -> C:\Users\ASUS\Desktop\DS lab\Lab6\200042123_T01L08_1A\x64\Debug\200042123_T01L08_1A.exe
